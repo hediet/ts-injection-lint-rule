@@ -1,0 +1,10 @@
+{
+    "$schema": "http://json.schemastore.org/tslint",
+    "rulesDirectory": "./rules",
+    "rules": {
+        "check-dependency-injection": true
+    },
+    "linterOptions": {
+        "exclude": ["./rules/**/*"]
+    }
+}
